@@ -1,0 +1,2 @@
+rootProject.name='mtouch'
+include ':app'
